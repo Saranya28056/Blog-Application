@@ -1,0 +1,25 @@
+label{
+    font-size: 25px;
+    font-weight: bold;
+}
+.input{
+    height:3rem;
+    width:18rem;
+    border-radius: 25px;
+    border-style: solid;
+    font-size: large;
+}
+body{
+    margin-top: 190px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    position: fixed;
+}
+.inputbig{
+    height:6rem;
+    width: 25rem;
+    border-radius: 25px;
+}

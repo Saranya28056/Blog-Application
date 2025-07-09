@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 18rem;
+    background-image: url("bgimg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+button{
+    background-color: #E0E0E0;
+    padding: 10px 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+button:hover{
+    background:linear-gradient(135deg, #5BA1D3, #FF8CBF);
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.3);
+}
